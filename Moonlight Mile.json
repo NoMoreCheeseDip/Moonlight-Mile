@@ -66,9 +66,7 @@
       "volume": "1",
       "last_updated": "1766113413",
       "groups": {
-        "Moon Moon Scans": [
-          "https://mangadex.org/chapter/84a9b304-f37c-4a85-8fd1-908a4e62038b"
-        ]
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/84a9b304-f37c-4a85-8fd1-908a4e62038b"
       }
     },
     "9": {
