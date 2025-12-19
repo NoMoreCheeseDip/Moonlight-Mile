@@ -1,0 +1,73 @@
+{
+  "title": "Gundam Ixtab",
+  "description": "Janurary 3rd 0079, Universal Century. The Magellan class Toutatis is ordered to trail a Zeon Salimis class ship transporting a mysterious cargo to Side 2, but the mission goes awry when the Principality of Zeon declares war against the Federation. The Toutatis narrowly escape to Isle Iffish thanks to the efforts of the crew and Lt. Nada Chinomi. However they are now being hunted by Eliza Heaven, a Zeon recruit desperate to earn her place. Nada sees in her the Mayan death goddess Ixtab",
+  "artist": "Umanosuk Iida",
+  "author": "Umanosuke Iida",
+  "cover": "https://files.catbox.moe/34segm.jpg",
+  "chapters": {
+    "1": {
+      "title": "Operation British: Scene: 1",
+      "volume": "1",
+      "last_updated": "1766118125",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/131e01d3-4281-4e8b-a865-56f9075d435c"
+      }
+    },
+    "2": {
+      "title": "Operation British: Scene 2",
+      "volume": "1",
+      "last_updated": "1766118204",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/d49b567f-333f-45ef-ae21-186e423c0372"
+      }
+    },
+    "3": {
+      "title": "Operation British: Scene 3",
+      "volume": "1",
+      "last_updated": "1766118240",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/a5ea8ab0-aab1-4dca-b3bb-2035e515e844"
+      }
+    },
+    "4": {
+      "title": "Operation British: Scene 4",
+      "volume": "1",
+      "last_updated": "1766118269",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/1dc62303-81b0-402b-9dab-f3d667519238"
+      }
+    },
+    "5": {
+      "title": "Operation British: Scene 5",
+      "volume": "1",
+      "last_updated": "1766118303",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/e3d52665-26d5-4203-b554-1116d3bdd5ed"
+      }
+    },
+    "6": {
+      "title": "Operation British: Scene 6",
+      "volume": "2",
+      "last_updated": "1766118337",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/7f190c9e-d4ee-44da-ba7a-45864f653efe"
+      }
+    },
+    "7": {
+      "title": "Operation British: Scene 7",
+      "volume": "2",
+      "last_updated": "1766118534",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/5b6a343b-a5d5-4253-ba38-b00a9bb53fac"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "2",
+      "last_updated": "1766118608",
+      "groups": {
+        "Moon Moon Scans": "https://cubari.moe/read/catbox/5xka4t/"
+      }
+    }
+  }
+}
