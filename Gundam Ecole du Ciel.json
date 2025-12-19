@@ -1,0 +1,33 @@
+{
+  "title": "Mobile Suit Gundam: École du Ciel",
+  "description": "The year is Universal Century 0085. Asuna Elmarit is a Zeon exchange student at the Earth Federation's pilot school in Montreal. Despite showing poor skills as a mobile suit pilot, her future rests on how well she does at school. Asuna soon finds herself caught in between her school duties and the dark machinations at play as the Universal Century is once again slowly moving on the path to yet another war. ",
+  "artist": "Haruhiko Mikimoto",
+  "author": "Haruhiko Mikimoto",
+  "cover": "https://mangadex.org/covers/9af8c114-aa40-4091-bc33-6b7d4f17b50a/b5089115-2385-44d3-a5fa-194508b9b5a6.jpg",
+  "chapters": {
+    "0": {
+      "title": "Asuna Goes to École",
+      "volume": "0",
+      "last_updated": "1766169158",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/ej7meembnyd"
+      }
+    },
+    "1": {
+      "title": "École du Ciel",
+      "volume": "1",
+      "last_updated": "1766169535",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/m9yxnnkzq7q"
+      }
+    },
+    "2": {
+      "title": "Asuna Elmarit",
+      "volume": "1",
+      "last_updated": "1766170245",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/wl7lwwkzq4x"
+      }
+    }
+  }
+}
