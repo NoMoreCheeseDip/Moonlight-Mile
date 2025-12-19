@@ -1,8 +1,17 @@
 {
   "title": "Kochiakme: Tokyo Beat Cops",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
-  "chapters": {}
+  "description": "Kankichi Ryotsu is a police officer at the Koban in Kameari Park. It's his job to keep the people of Kameari safe and to help out the community whenever asked. However, Ryotsu and his fellow officers at the Koban are doing everything but police work. While they may say it's police work, Ryotsu's always making schemes of some kind be it to make money or get out of work, while he and his partners get into increasingly crazy scenarios and deal with many larger than life people. They may work a mundane job, but there's never a dull moment around them.",
+  "artist": "Osamu Akimoto",
+  "author": "Osamu Akimoto",
+  "cover": "https://files.catbox.moe/843hwr.png",
+  "chapters": {
+    "1": {
+      "title": "Ryo-San of the Apology Report",
+      "volume": "1",
+      "last_updated": "1766168230",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/dl7pnnjm6yo"
+      }
+    }
+  }
 }
