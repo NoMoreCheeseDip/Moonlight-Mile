@@ -1,0 +1,17 @@
+{
+  "title": "Candy Box Creations",
+  "description": "A collection of 5 dark yet heartwarming stories by Yasuo Ohtagaki.\n\nTree: A woman gets stranded on a barren planet with a dwindling oxygen supply.\n\nMuseum of Another World: A boy enters a strange museum where everything feels slightly off.\n\nMama Mia: A woman reluctantly fulfills a promise to her mother.\n\nAn Autograph Signing: A man from the past appears in the modern day claiming he was abducted by aliens.\n\nScorpion: An experimental tank, codenamed Scorpion, is loose in a nature reserve. A crack commando team is dispatched to stop Scorpion before it causes more damage.",
+  "artist": "Yasuo Ohtagaki",
+  "author": "Yasuo Ohtagaki",
+  "cover": "https://cdn.imgchest.com/files/4f57749404ec.png",
+  "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1772002158",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/qb4zr6ojd7j"
+      }
+    }
+  }
+}
