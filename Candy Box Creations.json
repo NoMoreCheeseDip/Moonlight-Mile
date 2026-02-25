@@ -5,6 +5,38 @@
   "author": "Yasuo Ohtagaki",
   "cover": "https://cdn.imgchest.com/files/4f57749404ec.png",
   "chapters": {
+    "1": {
+      "title": "Tree",
+      "volume": "1",
+      "last_updated": "1772016977",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/5xy2gz6az7l"
+      }
+    },
+    "2": {
+      "title": "Museum of Another World",
+      "volume": "1",
+      "last_updated": "1772018648",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/mangadex/chapter/225c6a8c-d85c-4310-832a-17e385e92b2d"
+      }
+    },
+    "3": {
+      "title": "Mama Mia",
+      "volume": "1",
+      "last_updated": "1772019598",
+      "groups": {
+        "Moon Moon Scans": "/proxy/api/imgchest/chapter/xny89pajd4b"
+      }
+    },
+    "4": {
+      "title": "An Autograph Session",
+      "volume": "1",
+      "last_updated": "1772019853",
+      "groups": {
+        "Moon Moon Scans": "https://imgchest.com/p/dl7p6g33k4o"
+      }
+    },
     "5": {
       "title": "Scorpion",
       "volume": "1",
