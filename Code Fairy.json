@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "Trick or Treat on the Battlefield (part one)",
+      "title": "Trick or Treat on the Battlefield (Part One)",
       "volume": "1",
       "last_updated": "1777267934",
       "groups": {
@@ -51,6 +51,46 @@
       "last_updated": "1777268764",
       "groups": {
         "Kyosuke Asatte": "/proxy/api/imgchest/chapter/a846za3xzyx"
+      }
+    },
+    "7": {
+      "title": "The Soul of a Warrior Sleeps in Arizona (Part Two)",
+      "volume": "2",
+      "last_updated": "1777269089",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/ljyqe9adxy2"
+      }
+    },
+    "8": {
+      "title": "Wildcat Can't Sleep",
+      "volume": "2",
+      "last_updated": "1777269386",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/qe4gkdm2k7j"
+      }
+    },
+    "9": {
+      "title": "Fog Without an Exit",
+      "volume": "2",
+      "last_updated": "1777269317",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/xny88xeowyb"
+      }
+    },
+    "10": {
+      "title": "Black and White of the Apocalypse",
+      "volume": "2",
+      "last_updated": "1777269542",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/agyvadx2ky8"
+      }
+    },
+    "11": {
+      "title": "Alma's Choice",
+      "volume": "2",
+      "last_updated": "1777270026",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/wl7ldxa2oyx"
       }
     }
   }
