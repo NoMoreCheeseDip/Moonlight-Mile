@@ -2,7 +2,7 @@
   "title": "Mobile Suit Gundam Battle Operation: Code Fairy",
   "description": "The \"Noisy Fairy Squadron, a secret unit under the direct control of Kycilia Zabi of the Principality of Zeon, is deployed somewhere in the North American continent. With only female members, they fight in the One Year War against the Earth Federation Forces. They are forced to face the unreasonableness of war and the bonds with their comrades...\n\n",
   "artist": "Shūei Takagi",
-  "author": "",
+  "author": "Shūei Takagi",
   "cover": "https://cdn.imgchest.com/files/ff109c4258a8.jpg",
   "chapters": {
     "1": {
@@ -14,11 +14,43 @@
       }
     },
     "2": {
-      "title": "Trick or Treat on the Battlefield (part 1)",
+      "title": "Trick or Treat on the Battlefield (part one)",
       "volume": "1",
       "last_updated": "1777267934",
       "groups": {
         "Kyosuke Asatte": "/proxy/api/imgchest/chapter/m9yxlk3zpyq"
+      }
+    },
+    "3": {
+      "title": "Trick or Treat on the Battlefield (Part Two)",
+      "volume": "1",
+      "last_updated": "1777268357",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/5xy2mpqpz7l"
+      }
+    },
+    "4": {
+      "title": "Lieutenant Barbara's Doctrine (Part Two)",
+      "volume": "1",
+      "last_updated": "1777268522",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/lqyeo3d3m4d"
+      }
+    },
+    "5": {
+      "title": "Lieutenant Barbara's Doctrine (Part two)",
+      "volume": "1",
+      "last_updated": "1777268621",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/9rydo5qza7k"
+      }
+    },
+    "6": {
+      "title": "The Soul of a Warrior Sleeps in Arizona (Part 1)",
+      "volume": "1",
+      "last_updated": "1777268764",
+      "groups": {
+        "Kyosuke Asatte": "/proxy/api/imgchest/chapter/a846za3xzyx"
       }
     }
   }
